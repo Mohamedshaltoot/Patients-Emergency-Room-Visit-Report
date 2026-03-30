@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/2fa91a4a-7edc-433a-a1cd-d1ef7ecffdc6
 * **Visuals:** Heatmaps, Area Charts, and Custom Slicers 🎨
 ---
 ## 🖼️ Dashboard Preview
-![Patients Overview](Patients%20Overview.jpg)
+<img width="1446" height="797" alt="Image" src="https://github.com/user-attachments/assets/7cf77bb3-b320-475a-8e19-f8d162e52f66" />
 ---
 ## 📥 How to Explore
 1. Clone this repository.

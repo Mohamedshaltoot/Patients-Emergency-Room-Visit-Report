@@ -3,8 +3,9 @@
 ## 📝 Project Overview
 This professional Power BI dashboard provides a deep dive into **Emergency Room (ER) Patient Data** for the years 2019 and 2020. It is designed to help hospital administrators monitor patient flow, satisfaction levels, and wait times to optimize healthcare delivery.
 
+---
 ## 🎥 Interactive Demo
-Check out the dashboard interactions and dynamic filtering:
+
 https://github.com/user-attachments/assets/2fa91a4a-7edc-433a-a1cd-d1ef7ecffdc6
 ---
 
@@ -25,10 +26,10 @@ https://github.com/user-attachments/assets/2fa91a4a-7edc-433a-a1cd-d1ef7ecffdc6
 * **Data Cleaning:** Power Query (ETL Process) ⚙️
 * **Calculations:** DAX (Advanced Measures & KPIs) 🔢
 * **Visuals:** Heatmaps, Area Charts, and Custom Slicers 🎨
-
+---
 ## 🖼️ Dashboard Preview
 ![Patients Overview](Patients%20Overview.jpg)
-
+---
 ## 📥 How to Explore
 1. Clone this repository.
 2. Ensure you have **Power BI Desktop** installed.

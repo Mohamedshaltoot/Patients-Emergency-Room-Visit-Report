@@ -5,9 +5,7 @@ This professional Power BI dashboard provides a deep dive into **Emergency Room 
 
 ## 🎥 Interactive Demo
 Check out the dashboard interactions and dynamic filtering:
-
-https://github.com/user-attachments/assets/0b556b6b-4899-4d9d-9221-f0952d765796
-
+https://github.com/user-attachments/assets/2fa91a4a-7edc-433a-a1cd-d1ef7ecffdc6
 ---
 
 ## 🚀 Key Performance Indicators (KPIs)

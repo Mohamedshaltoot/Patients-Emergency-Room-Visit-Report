@@ -39,4 +39,5 @@ https://github.com/user-attachments/assets/359bf2c1-9792-4c03-bd25-5ffeb34f7a67
 3. Open the `.pbix` file to interact with the data slicers (Year, Time of Day, etc.).
 
 ---
-**Developed with ❤️ by:** **Eng. Mohamed Edris** *Warehouse Supervisor & Data Analytics Specialist*
+
+Autor:** **Eng. Mohamed Edris** *  Data Analytics Specialist*

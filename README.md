@@ -40,4 +40,7 @@ https://github.com/user-attachments/assets/359bf2c1-9792-4c03-bd25-5ffeb34f7a67
 
 ---
 
-Autor:** **Eng. Mohamed Edris** *  Data Analytics Specialist*
+Autor:
+Eng. Mohamed Edris 
+Data Analytics Specialist
+https://www.linkedin.com/in/mohamed-edris-mohamed-ali-ba261b212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app

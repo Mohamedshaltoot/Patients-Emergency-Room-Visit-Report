@@ -2,11 +2,16 @@
 
 ## 📝 Project Overview
 This professional Power BI dashboard provides a deep dive into **Emergency Room (ER) Patient Data** for the years 2019 and 2020. It is designed to help hospital administrators monitor patient flow, satisfaction levels, and wait times to optimize healthcare delivery.
+
 ---
+
 ## 🎥 Project Video Demo
 Watch the interactive dashboard and dynamic filtering in action:
+
 https://github.com/user-attachments/assets/0b556b6b-4899-4d9d-9221-f0952d765796
+
 ---
+
 ## 🚀 Key Performance Indicators (KPIs)
 * **👥 Total Patients Visit:** 9,216 (Split between 50.04% Administrative & 49.96% Non-Administrative).
 * **⭐ Avg Satisfaction Score:** 5.47 / 10.

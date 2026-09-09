@@ -35,8 +35,10 @@ https://github.com/user-attachments/assets/359bf2c1-9792-4c03-bd25-5ffeb34f7a67
 ---
 ## 📥 How to Explore
 1. Clone this repository.
+
 2. Ensure you have Power BI Desktop installed.
-4. Open the `.pbix` file to interact with the data slicers (Year, Time of Day, etc.).
+   
+3. Open the `.pbix` file to interact with the data slicers (Year, Time of Day, etc.).
 
 ---
 

@@ -34,6 +34,7 @@ https://github.com/user-attachments/assets/359bf2c1-9792-4c03-bd25-5ffeb34f7a67
 <img width="1446" height="797" alt="Image" src="https://github.com/user-attachments/assets/7cf77bb3-b320-475a-8e19-f8d162e52f66" />
 ---
 ## 📥 How to Explore
+
 1. Clone this repository.
 
 2. Ensure you have Power BI Desktop installed.
